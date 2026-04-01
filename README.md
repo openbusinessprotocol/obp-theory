@@ -1,5 +1,7 @@
 # OBP Theory
 
+[![DOI](https://zenodo.org/badge/1197960431.svg)](https://doi.org/10.5281/zenodo.19364157)
+
 **Open Business Protocol — The structural foundation for agent integrity, non-zero-sum value exchange, and the prevention of autonomous agent runaway.**
 
 ---
