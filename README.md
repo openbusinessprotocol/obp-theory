@@ -2,27 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/1197960431.svg)](https://doi.org/10.5281/zenodo.19364157)
 
-**Open Business Protocol — The structural foundation for agent integrity, non-zero-sum value exchange, and the prevention of autonomous agent runaway.**
+**A structural foundation for agent integrity, non-zero-sum value exchange, and the prevention of autonomous agent runaway.**
 
 ---
-
-## What This Repository Contains
-
-This repository holds the OBP Theory: the immutable principles of the Open Business Protocol.
-
-OBP is published as three independent layers:
-
-| Layer | Repository | Description |
-|---|---|---|
-| **Theory** | **obp-theory** (this repo) | Immutable principles. No version number. |
-| Ontology | obp-ontology | Classification of world concepts. Versioned. |
-| Core | obp-core | Implementation protocol. Versioned. Installable. |
-
-Theory does not change. It is discovered more precisely — the way physical constants are measured more accurately without changing value.
-
-## Read the Whitepaper
-
-**[OBP-Theory.pdf](whitepaper/OBP-Theory.pdf)**
 
 ## The Four Principles
 
@@ -40,9 +22,9 @@ Theory does not change. It is discovered more precisely — the way physical con
 | **flow** | The Process — the structured description of change over time |
 | **context** | The Frame — the conditions of meaning |
 
-## Website
+## Read the Whitepaper
 
-[openbusinessprotocol.org](https://openbusinessprotocol.org)
+**[OBP-Theory.pdf](whitepaper/OBP-Theory.pdf)**
 
 ## License
 
@@ -50,5 +32,5 @@ CC BY 4.0
 
 ---
 
-*First published: 2026-04-01*
 *Published by the OBP Specification Committee*
+*[openbusinessprotocol.org](https://openbusinessprotocol.org)*
