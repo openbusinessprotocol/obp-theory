@@ -28,8 +28,7 @@
 
 ## Agent Constitution
 
-**[AGENT-CONSTITUTION.md](agent-constitution/AGENT-CONSTITUTION.md)**
-**[AGENT-CONSTITUTION.pdf](agent-constitution/AGENT-CONSTITUTION.pdf)**
+**[github.com/openbusinessprotocol/agent-constitution](https://github.com/openbusinessprotocol/agent-constitution)**
 
 The Agent Constitution defines what an agent is, its relationship to its principal, and the invariant duties it must uphold — independent of any implementation, product, or organization.
 
