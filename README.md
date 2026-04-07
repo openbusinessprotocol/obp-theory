@@ -26,6 +26,13 @@
 
 **[OBP-Theory.pdf](whitepaper/OBP-Theory.pdf)**
 
+## Agent Constitution
+
+**[AGENT-CONSTITUTION.md](agent-constitution/AGENT-CONSTITUTION.md)**
+**[AGENT-CONSTITUTION.pdf](agent-constitution/AGENT-CONSTITUTION.pdf)**
+
+The Agent Constitution defines what an agent is, its relationship to its principal, and the invariant duties it must uphold — independent of any implementation, product, or organization.
+
 ## License
 
 CC BY 4.0
